@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
 permalink: /about.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+暗号学についてだらだら書く一人アドベントカレンダー用のサイトです。記事は該当の日付になったら更新されます（内容が準備できている限り）。
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+執筆者 sylph01 は他にも以下のところに出現しています:
 
+- [section 01](https://s01.info/)
+- [そんなことはさておいて](https://sylph01.hatenablog.jp/)
+- [Twitter](https://twitter.com/s01)
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+テーマは [cayman-blog](https://github.com/lorepirri/cayman-blog) を使用しています。
+
+[戻る]({{ site.url }}{{ site.baseurl }})
